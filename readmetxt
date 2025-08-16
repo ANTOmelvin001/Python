@@ -1,1 +1,56 @@
-Here we are i am going o learn python
+Here we are i am going to learn python
+
+🧠 Python Learning Roadmap (From Zero to Intermediate)
+Phase 1: Python Basics (Week 1)
+Variables, Data Types
+
+Input/Output
+
+Operators
+
+Conditional Statements
+
+Loops
+
+Phase 2: Data Structures (Week 2)
+Lists
+
+Tuples
+
+Sets
+
+Dictionaries
+
+String manipulations
+
+Phase 3: Functions & Modules (Week 3)
+Defining functions
+
+*args, **kwargs
+
+Lambda, map, filter, reduce
+
+Importing modules
+
+Phase 4: Object-Oriented Programming (Week 4)
+Classes and Objects
+
+Inheritance
+
+Encapsulation, Polymorphism
+
+Phase 5: File Handling & Exception Handling (Week 5)
+Reading/writing files
+
+Handling errors with try/except
+
+CSV & JSON handling
+
+Phase 6: Python Libraries & Projects (Week 6+)
+Basic Projects (Calculator, Quiz App, etc.)
+
+Libraries: datetime, random, os, math
+
+Intro to external libraries: pandas, numpy, matplotlib
+
+Optional: Tkinter GUI, Web scraping, or simple games with pygame
